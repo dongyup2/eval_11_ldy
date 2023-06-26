@@ -36,7 +36,6 @@ public class BookUpdateServlet extends HttpServlet {
         int price = Integer.parseInt(request.getParameter("bookprice"));
         String info = request.getParameter("bookinfo");
         
-        
 	}
 
 }
